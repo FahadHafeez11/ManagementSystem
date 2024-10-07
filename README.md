@@ -50,3 +50,5 @@ Login Page Credentials for Admin:
 
 Username: admin11@gmail.com
 password: 12345678
+
+At first there will only have admin. After login he will be able to create/manage users and managers.
